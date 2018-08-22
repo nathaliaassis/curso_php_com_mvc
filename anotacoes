@@ -1,0 +1,6 @@
+-model: contem todas as classe das regras de negócio; busca dados no DB
+-view: onde está o html; a parte visual; layout; a visão do usuário;
+-controller: controla toda a aplicação; recebe as rotas; inicialização do sistema;
+no controller, o usuário poderá buscar dados no model e envia o retorno para a view.
+
+composer - é um gerenciador de bibliotecas/dependencias

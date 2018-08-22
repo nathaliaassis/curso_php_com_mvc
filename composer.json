@@ -1,0 +1,20 @@
+{
+    "name": "son/mvc",
+    "description": "MVC course",
+    "require": {
+        "php":">=7.2"
+    },
+
+    "authors": [
+        {
+            "name": "Nathalia Assis",
+            "email": "nathaliamassis@gmail.com"
+        }
+    ],
+    "autoload": {
+       "psr-4":{
+            "SON\\": "vendor/SON/",
+            "App\\": "App/"
+        }
+    }
+}
